@@ -1,11 +1,24 @@
 "Resource/HudLayout.res"
 {
+	"CustomCrosshair"
+	{
+		"visible"	"1"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
+		
+		"labelText"	"7"
+		
+		"font"		"Size:22 | Outline:OFF"
+		
+		"xpos"		"cs-0.5"
+		"ypos"		"cs-0.5"
+		
+		"fgcolor"	"Crosshair"
+	}
 	CrossHairNormal
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairNormal"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-12"
@@ -24,7 +37,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairRequest"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-11"
@@ -43,7 +56,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairXS"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-10"
@@ -62,7 +75,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairCircle"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-17"
@@ -82,7 +95,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairCircleFilling"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-47"
@@ -102,7 +115,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrWings"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-38"
@@ -122,7 +135,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrDot"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-6"
@@ -142,7 +155,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairDotOutline"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-4"
@@ -161,7 +174,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairDotLarge"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-8"
@@ -181,7 +194,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairDotLargeOutline"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-16"
@@ -201,7 +214,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairSmiley"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-16"
@@ -221,7 +234,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairSmileyBG"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"zpos"			"1"
 
 		"xpos"			"c-17"
@@ -603,7 +616,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"316"
+		"ypos"		"237"
 		"wide"	 	"60"
 		"tall"	 	"32"
 		"priority"	"40"

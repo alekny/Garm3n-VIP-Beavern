@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"Garm3nFontTinyShadow"
+		"font"			"Garm3nFontSmallestShadow"
 		"fgcolor"		"Garm3nHUDWhite"
 
 	}								

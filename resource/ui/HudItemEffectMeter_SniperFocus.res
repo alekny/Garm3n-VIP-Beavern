@@ -62,7 +62,7 @@
 		"ypos"			"r208"
 		"zpos"			"2"
 		"wide"			"78"
-		"tall"			"4"				
+		"tall"			"2"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

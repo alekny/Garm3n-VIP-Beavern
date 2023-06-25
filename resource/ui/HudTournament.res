@@ -6,7 +6,7 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"30"
 		"wide"					"f0"
 		"tall"					"480"
 

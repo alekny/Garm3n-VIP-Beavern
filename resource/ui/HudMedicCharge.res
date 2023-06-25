@@ -36,7 +36,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Garm3nFontSmallerShadow"
+		"font"			"Garm3nFontMediumShadow"
 	}
 
 	"ChargeLabel"
@@ -58,7 +58,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"Garm3nHUDWhite"
-		"font"			"Garm3nFontSmallerShadow"
+		"font"			"Garm3nFontMediumShadow"
 	}
 
 	"ChargeMeter"

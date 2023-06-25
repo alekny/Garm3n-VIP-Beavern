@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Garm3nFontSmallerShadow"
+		"font"			"Garm3nFontMediumShadow"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c46"
 		"ypos"	"r220"
@@ -73,10 +73,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"	"Garm3nFontTinyShadow"
+		"font"	"Garm3nFontSmallest2Shadow"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c71"
-		"ypos"			"r217"
+		"ypos"			"r218"
 		"zpos"			"7"
 		"wide"			"50"
 		"tall"			"18"
@@ -105,7 +105,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"Garm3nFontSmallerShadow"
+		"font"			"Garm3nFontMediumShadow"
 		"fgcolor"		"Garm3nHUDWhite"
 		"xpos"	"c46"
 		"ypos"	"r220"
